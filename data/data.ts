@@ -4,7 +4,7 @@ const data = {
     sitetagline: "DocTao is on the way! ✨ 🔥",
     siteurl: "https://doctao.io",
     sitelogo: "",
-    title: "DocTao is on the way!",
+    title: "DocTao is on the way! Now",
     description: "We're working hard on DocTao, a documentation aggregator that enhances your online experience with better search and update notifications. Stay tuned for more updates!",
     newsletterheading: "Do you want to stay updated?",
     copyrightText: `Copyright © ${currentYear} | Design and Developed By &nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com/fauxir">Michael Adrian</a>`,

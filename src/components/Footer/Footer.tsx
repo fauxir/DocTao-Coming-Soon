@@ -8,7 +8,7 @@ function Footer() {
   return (
     <>
       <footer className="text-slate-500 text-center">
-        <div className="my-4 text-center">
+        {/* <div className="my-4 text-center">
           <ul className="flex flex-wrap lg:flex justify-center ">
             <li className="px-2"> {socialIconsHeading} </li>
             {socialIcons.map((social, index) => (
@@ -22,7 +22,7 @@ function Footer() {
               </li>
             ))}
           </ul>
-        </div>
+        </div> */}
         <div className="">
           <p
             className=""

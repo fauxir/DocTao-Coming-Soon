@@ -1,7 +1,7 @@
 const currentYear = new Date().getFullYear();
 const data = {
     sitename: "Michael Adrian",
-    sitetagline: "DocTao is on the way! ✨ 🔥",
+    sitetagline: "DocTao is on the way!",
     siteurl: "https://doctao.io",
     sitelogo: "",
     title: "DocTao is on the way!",

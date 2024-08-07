@@ -1,15 +1,20 @@
 import React from "react";
 import data from "../../../data/data";
+import Image from "next/image";
 
 function ComingSoonContent() {
   const { description, title } = data;
   return (
     <>
       <div className="relative flex flex-col  place-items-center ">
+        <Image
+          src="/DocTao-white.png"
+          alt="DocTao Logo"
+          width={100}
+          height={100}
+        />
         <h2 className="text-center font-heading m-10 text-6xl sm:text-7xl lg:text-8xl leading-[5rem] sm:leading-[7rem] lg:leading-[7rem] font-black	 ">
-          <span className="text-slate-100">
-            {title}
-          </span>
+          <span className="text-slate-200">{title}</span>
           {/* <span className="">⏳</span> */}
         </h2>
         <p
